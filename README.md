@@ -1,4 +1,3 @@
-```markdown
 # NeuroStartUp
 
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
@@ -10,4 +9,3 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
-```
